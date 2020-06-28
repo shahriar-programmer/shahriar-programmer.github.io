@@ -1,0 +1,78 @@
+/* Designer   : Shahriar Ahmed Shovon;
+   Portfolio  : shahriar-programmer.github.io;
+   Github     : github.com/shahriar-programmer;
+   Blog       : shovonsdiary.xyz;
+   Facebook   : facebook.com/shovon.0.ahmed;
+*/
+
+/* Full Body Applied Style */
+
+body{
+	margin: 0;
+	padding: 0;
+	background: url(../img/bg.jpg);
+	background-size: cover;
+	background-position: center;
+	height: 100vh;
+}
+
+/* Full Form Applied Style */
+
+.form{
+	top: 50%;
+	left: 50%;
+	position: absolute;
+	transform: translate(-50%, -50%);
+	padding: 2.5% 5%;
+	border-radius: 10px;
+	background: #fff;
+	text-align: center;
+	/*! background: green; */
+}
+
+.fb{
+	cursor: pointer;
+	font-size: 12px;
+	padding: 5px 15px;
+	border: none;
+	background: navy;
+	color: #fff;
+	font-weight: bold;
+}
+
+/* Full Form Input Applied Style */
+
+.text-input{
+	border: 1px solid #333;
+	/*border-radius: 16px;*/
+	height: 4vh;
+	width: 50vh;
+	padding-left: 10px;
+}
+
+/* Form Header Applied Style */
+
+h2{
+	font-size: 40px;
+	color: #333;
+}
+
+/* Full Sign Up Button Applied Style */
+
+.btn{
+	cursor: pointer;
+	font-size: 22px;
+	padding: 5px 25px;
+	border: none;
+	border-radius: 5px;
+	background: green;
+	color: #fff;
+	font-weight: bold;
+}
+
+/* Full Sign Up Button Hover Applied Style */
+
+p{
+	font-size: 20px;
+	font-weight: bold;
+}
